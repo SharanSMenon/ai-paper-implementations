@@ -9,7 +9,7 @@ The following table lists the progress on each implementation in each framework.
 |---|---|---|---|
 | EfficientNet | Yes | Yes | No |
 | EfficientNet V2 | Yes | No | No |
-| DenseNet | In Progress | No | No |
+| DenseNet | Yes | No | No |
 | ResNet | Yes | Yes | In Progress |
 | Vision Transformer | Yes | Yes | No |
 | BERT | No | No | No |
