@@ -4,7 +4,7 @@ An implementation of efficientnet
 
 ## Models
 
-| Model           | Params | FLOPS (G) | PyTorch | Tensorflow |
+| Model           | Params | MAC (G) | PyTorch | Tensorflow |
 |-----------------|--------|-----------|---------|------------|
 | EfficientNet-B0 | 5.29M  | 0.385     | Yes     | Yes        |
 | EfficientNet-B1 | 7.79M  | 0.569     | Yes     | Yes        |

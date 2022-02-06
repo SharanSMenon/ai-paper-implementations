@@ -2,7 +2,7 @@
 
 The table below lists the supported models and their implementation status.
 
-| Model              | Params | FLOPS (M) | PyTorch | Tensorflow | JAX/Flax |
+| Model              | Params | MAC (M)   | PyTorch | Tensorflow | JAX/Flax |
 |--------------------|--------|-----------|---------|------------|----------|
 | MobileNet V1       |        |           | No      | No         | No       |
 | MobileNet V2       | 3.50M  | 300.81    | Yes     | Yes        | No       |
