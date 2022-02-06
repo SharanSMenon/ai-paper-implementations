@@ -2,6 +2,8 @@
 
 The following repository contains implementations of various papers in Tensorflow and PyTorch. More detail about the models and their respective papers can be found in the subfolders. 
 
+The goal of this repository is to create human readable implementations of different models, mainly for understanding. You should probably not try to use these models in production. Sources used in making the implementation are listed in the subfolders' README.
+
 The following table lists the progress on each implementation in each framework.
 
 
@@ -25,3 +27,5 @@ The following table lists the progress on each implementation in each framework.
 | Attention | No | No | No |
 
 > Not all implementations have been tested. Results will be in the subfolder, if there are any. 
+
+*Please report any problems with the implementations if you find any. Thanks!*

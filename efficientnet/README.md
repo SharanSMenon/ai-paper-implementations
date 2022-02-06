@@ -30,3 +30,4 @@ An implementation of efficientnet
 - [EfficientNet Paper](https://arxiv.org/pdf/1905.11946.pdf)
 - [Torchvision Implementation](https://pytorch.org/vision/main/_modules/torchvision/models/efficientnet.html)
 - [Tensorflow Implementation](https://github.com/keras-team/keras/blob/v2.8.0/keras/applications/efficientnet.py)
+- [EfficientNet Tutorial](http://python.plainenglish.io/implementing-efficientnet-in-pytorch-part-3-mbconv-squeeze-and-excitation-and-more-4ca9fd62d302)
