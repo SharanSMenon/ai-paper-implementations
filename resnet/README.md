@@ -2,10 +2,10 @@
 
 This folder contains a implementation of ResNet in Tensorflow and PyTorch. Each model is set to 1000 classes default, and both Tensorflow and PyTorch implementations can be customized
 
-| Model              | Params | MAC (G) | PyTorch | Tensorflow | JAX/Flax |
+| Model              | Params | MAC (G)   | PyTorch | Tensorflow | JAX/Flax |
 |--------------------|--------|-----------|---------|------------|----------|
-| ResNet 18          | 11.69M | 1.81      | Yes     | Yes        | No       |
-| ResNet 34          | 21.8M  | 3.55      | Yes     | Yes        | No       |
+| ResNet 18          | 11.69M | 1.81      | Yes     | Yes        | Yes      |
+| ResNet 34          | 21.8M  | 3.55      | Yes     | Yes        | Yes      |
 | ResNet 50          | 25.56M | 4.09      | Yes     | Yes        | No       |
 | ResNet 101         | 44.55M | 7.80      | Yes     | Yes        | No       |
 

@@ -1,33 +1,28 @@
-# EfficientNet Implementation
+# EfficientNet Family
 
-An implementation of efficientnet
+This folder contains the EfficientNet family, and its successors
 
 ## Models
 
-| Model           | Params | MAC (G) | PyTorch | Tensorflow |
-|-----------------|--------|-----------|---------|------------|
-| EfficientNet-B0 | 5.29M  | 0.385     | Yes     | Yes        |
-| EfficientNet-B1 | 7.79M  | 0.569     | Yes     | Yes        |
-| EfficientNet-B2 | 9.11M  | 0.659     | Yes     | Yes        |
-| EfficientNet-B3 | 12.23M | 0.962     | Yes     | Yes        |
-| EfficientNet-B4 | 19.34M | 1.5       | Yes     | Yes        |
-| EfficientNet-B5 | 30.39M | 2.36      | Yes     | Yes        |
-| EfficientNet-B6 | 43.04M | 3.36      | Yes     | Yes        |
-| EfficientNet-B7 | 66.35M | 5.17      | Yes     | Yes        |
-
-
-## Results
-
-**Animals 138**
-
-| Model | Acc  | Framework |
-|:------|------|----------:|
-| B0    | 84%  | PyTorch   |
-| B1    | 85%  | PyTorch   |
-
-## Sources
-
-- [EfficientNet Paper](https://arxiv.org/pdf/1905.11946.pdf)
-- [Torchvision Implementation](https://pytorch.org/vision/main/_modules/torchvision/models/efficientnet.html)
-- [Tensorflow Implementation](https://github.com/keras-team/keras/blob/v2.8.0/keras/applications/efficientnet.py)
-- [EfficientNet Tutorial](http://python.plainenglish.io/implementing-efficientnet-in-pytorch-part-3-mbconv-squeeze-and-excitation-and-more-4ca9fd62d302)
+| Model              | PyTorch | Tensorflow |
+|--------------------|---------|------------|
+| EfficientNet-B0    | Yes     | Yes        |
+| EfficientNet-B1    | Yes     | Yes        |
+| EfficientNet-B2    | Yes     | Yes        |
+| EfficientNet-B3    | Yes     | Yes        |
+| EfficientNet-B4    | Yes     | Yes        |
+| EfficientNet-B5    | Yes     | Yes        |
+| EfficientNet-B6    | Yes     | Yes        |
+| EfficientNet-B7    | Yes     | Yes        |
+| EfficientNetV2-B0  | Yes     | Yes        |
+| EfficientNetV2-B1  | Yes     | Yes        |
+| EfficientNetV2-B2  | Yes     | Yes        |
+| EfficientNetV2-S   | Yes     | Yes        |
+| EfficientNetV2-M   | Yes     | Yes        |
+| EfficientNetV2-L   | Yes     | Yes        |
+| EfficientNetV2-XL  | No      | No         |
+| EfficientNet-Lite0 | Yes     | Yes        |
+| EfficientNet-Lite1 | Yes     | Yes        |
+| EfficientNet-Lite2 | Yes     | Yes        |
+| EfficientNet-Lite3 | Yes     | Yes        |
+| EfficientNet-Lite4 | Yes     | Yes        |
