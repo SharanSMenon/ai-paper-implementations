@@ -13,9 +13,9 @@ The table below lists the supported models and their implementation status.
 
 | Model | Acc  | Framework |  Dataset   |
 |:------|------|----------:|------------|
-| V2    | 83%  | PyTorch   |  Birds 64  |
-| V3L   | 89%  | PyTorch   |  Birds 64  |
-| V3S   | 85%  | PyTorch   |  Birds 64  |
+| V2    | 83.4%  | PyTorch   |  Birds 64  |
+| V3L   | 87.5%  | PyTorch   |  Birds 64  |
+| V3S   | 85.7%  | PyTorch   |  Birds 64  |
 
 > **NOTE**: I modified the heads of the models for training, leading to slightly higher accuracies.
 
