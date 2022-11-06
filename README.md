@@ -18,6 +18,7 @@ The following table lists the progress on each implementation in each framework.
 | BERT | No | No | No |
 | GPT | No | No | No |
 | DCGAN | Yes | No | No |
+| SRGAN | Yes | No | No |
 | GAN | Yes | No | No |
 | ConvNext | Yes | No | No |
 | Swin Transformer | No | No | No |
